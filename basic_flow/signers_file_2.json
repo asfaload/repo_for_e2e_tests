@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "timestamp": "2026-02-14T10:46:40.483095720Z",
+  "artifact_signers": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWS1kZJeKmeNOI0vl8hjI/YD7UQYxMq5uYkVWfHCHPtm7bOsbgZMovii"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWSoOcwiDsEPTQKBOIiRduc7RiyThzsfYoWREeD5vGVlvCvix6pZiYPw"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWQWrWvSQC62RlWUMNAmys3LE7GtZOIlQI25ZhIjqKqmwd0/Cqe/+cgB"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWTTSGWPlN0YM3INbiYSm1SM9BUaSySsX6tWu7uugpPuiboELZqgspzb"
+          }
+        }
+      ],
+      "threshold": 3
+    }
+  ]
+}
