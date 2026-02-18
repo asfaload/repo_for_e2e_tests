@@ -35,5 +35,33 @@
       ],
       "threshold": 3
     }
+  ],
+  "revocation_keys": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWSbwz+ijreCqyRIiYwQ2L3p9/HSQ73yw96Uv3MdaJT5D2UyWXRBrsFN"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWQ67uyZvDe8v9iMKZRL7X7pedBjiVtuNCEcDqtygrvPkStwdvcyJkMA"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "minisign",
+            "pubkey": "RWTECnu/PEyBXb5Uzj2ldqJ4wVHK6jpc3g3Yq36cjaWIe7+O4waLBdh2"
+          }
+        }      ],
+      "threshold": 2
+    }
   ]
+
 }
