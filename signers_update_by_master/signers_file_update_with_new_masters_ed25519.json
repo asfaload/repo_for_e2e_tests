@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "timestamp": "2026-02-28T09:59:17.492650912Z",
+  "artifact_signers": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "format": "ed25519",
+            "pubkey": "5xOBjTuoIRRcb8VF7+16G1XHaMD66XmKd/oaHwjJOaI="
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "ed25519",
+            "pubkey": "D6c4b5ilpUKU4wYFzIrsGdvW1jXEElW5vs8m2uc5WGo="
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "ed25519",
+            "pubkey": "LNwoDaRPOglyvWhnK3zqoyjweumftoYyTceIl2srfwM="
+          }
+        }
+      ],
+      "threshold": 2
+    }
+  ],
+  "master_keys": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "format": "ed25519",
+            "pubkey": "kXNhiIKatQreu2jLQ1xu9OU6lB2qNh0BRQshXikB88I="
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "format": "ed25519",
+            "pubkey": "o/m02taYX27lxsqUV1yeLRy77lGjZwaIKrbyT1W3x7c="
+          }
+        }
+      ],
+      "threshold": 1
+    }
+  ]
+}
