@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-02-14T10:46:40.483095720Z",
+  "timestamp": "2026-03-03T10:16:50.214768855Z",
   "artifact_signers": [
     {
       "signers": [
@@ -8,28 +8,28 @@
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWS1kZJeKmeNOI0vl8hjI/YD7UQYxMq5uYkVWfHCHPtm7bOsbgZMovii"
+            "pubkey": "minisign:RWQwtmTQyX/sEi37vH0S8oyXWO0C7730/Y6j5Jikc0RLgHJpswmPWUGe"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWSoOcwiDsEPTQKBOIiRduc7RiyThzsfYoWREeD5vGVlvCvix6pZiYPw"
+            "pubkey": "minisign:RWTDPSShI30Kp9QiWZbu6CdseFOYhy4beON7aEehrSISeMXv0MMjWdC0"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWQWrWvSQC62RlWUMNAmys3LE7GtZOIlQI25ZhIjqKqmwd0/Cqe/+cgB"
+            "pubkey": "minisign:RWTUnaHXvWN45S9Z25+agzgcOH7f6sPMNgihwG+ZTyjhJN24w//wzPed"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWTTSGWPlN0YM3INbiYSm1SM9BUaSySsX6tWu7uugpPuiboELZqgspzb"
+            "pubkey": "minisign:RWQg9O/tCi0+DDc//fs1O2r5nZPVEaizF1bqJ0BRIdAjsTjGHuEeGFnd"
           }
         }
       ],
@@ -43,25 +43,25 @@
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWSbwz+ijreCqyRIiYwQ2L3p9/HSQ73yw96Uv3MdaJT5D2UyWXRBrsFN"
+            "pubkey": "minisign:RWTDB3q1Bk1YA+INM6uGR00Tjs/W9FGsYzTLrzDFtwOqpz/sI2FKo/sg"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWQ67uyZvDe8v9iMKZRL7X7pedBjiVtuNCEcDqtygrvPkStwdvcyJkMA"
+            "pubkey": "minisign:RWS1u1FFtxH4xAw9Lr+Fj+62KS4CWK7CQRIJG9ud1AcAUCbGKniwsTqk"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWTECnu/PEyBXb5Uzj2ldqJ4wVHK6jpc3g3Yq36cjaWIe7+O4waLBdh2"
+            "pubkey": "minisign:RWROx/4cuPiyYI+1XVR6EsL28AvGJXFvDh8M/QuVs02ZOv2HPJcAkTKI"
           }
-        }      ],
+        }
+      ],
       "threshold": 2
     }
   ]
-
 }

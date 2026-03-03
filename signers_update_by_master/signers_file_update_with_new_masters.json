@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-02-23T12:30:56.568144023Z",
+  "timestamp": "2026-03-03T10:10:50.634457955Z",
   "artifact_signers": [
     {
       "signers": [
@@ -8,21 +8,21 @@
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWQ67uyZvDe8v9iMKZRL7X7pedBjiVtuNCEcDqtygrvPkStwdvcyJkMA"
+            "pubkey": "minisign:RWS1u1FFtxH4xAw9Lr+Fj+62KS4CWK7CQRIJG9ud1AcAUCbGKniwsTqk"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWTECnu/PEyBXb5Uzj2ldqJ4wVHK6jpc3g3Yq36cjaWIe7+O4waLBdh2"
+            "pubkey": "minisign:RWROx/4cuPiyYI+1XVR6EsL28AvGJXFvDh8M/QuVs02ZOv2HPJcAkTKI"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWS7GqqB9ShqwRtMiD7YQLiXS+swCmKVWRvH/YrNOhS19XUTesYJQ4cR"
+            "pubkey": "minisign:RWQswUeZ6XN1cQ0i1dvmIZgty8vBX0pKf5veL+HRq9GtIMeFjn1a9nAz"
           }
         }
       ],
@@ -36,14 +36,14 @@
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWRtlhYD13tB0F6aGtNS65BfvG8ol4APoJbt05zIgs9jrzCqC1vbHfuo"
+            "pubkey": "minisign:RWQwyEINEwOrqdACUEQrz08JElFmQZw285TujyIx24ZOjweIzFV4083d"
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "minisign",
-            "pubkey": "RWSp6SxyefnVkMi+18hQB274vImlqys/HotgTtPojVDTzyORMmOYAtIZ"
+            "pubkey": "minisign:RWSr//WLsudchDeNYSN5+i6UNaFRqpB2g5A189uDyIfhkYpT/c2Aa1C3"
           }
         }
       ],
