@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": "2026-02-28T13:15:32.468205085Z",
+  "timestamp": "2026-03-03T09:08:02.766984492Z",
   "artifact_signers": [
     {
       "signers": [
@@ -8,21 +8,21 @@
           "kind": "key",
           "data": {
             "format": "ed25519",
-            "pubkey": "qXnWIGhz94zZmGRE154QPNKHBCajOhR4mwsfJv8LAN8="
+            "pubkey": "ed25519:a6j/HjISd9bEvySrw7+4rs+h7HhsIuKw6rQp21BmZSQ="
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "ed25519",
-            "pubkey": "dESrsoy0C63220jUnJS0YJBE/BDxLz1nCtd//ib6sJM="
+            "pubkey": "ed25519:0zNlOs7cBG5XQvXHxmfrqq4oPEGpoJVHuT1ldBieDwU="
           }
         },
         {
           "kind": "key",
           "data": {
             "format": "ed25519",
-            "pubkey": "z+ntWFFw9+vD82ZAfnvnrJZdM4toExk0yaXbQHEzsj8="
+            "pubkey": "ed25519:5HZRt4VVpKOF7bf58I6bvNrbWrXJu6BzFpQnvdr8kaQ="
           }
         }
       ],
