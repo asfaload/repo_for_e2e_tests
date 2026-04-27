@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "timestamp": "2026-04-27T12:26:01.048671594Z",
+  "artifact_signers": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:Ruw/u/xBnETvDSrFddw8an7KQ2FZWXj/YQPVS+f6lrY"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:twBzvjoPity/cqtw8TGNjBhSt3lQxWHaUt7zc/udkVA"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:FZtkkeTNcZ372UykQbTNy8Vg+Y90MJ66OANKgUmUepk"
+          }
+        }
+      ],
+      "threshold": 2
+    }
+  ],
+  "master_keys": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:PlLdpHsUlwJ40nj0ChUUZR5bUbFl8WggW1t9N9zuplg"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:pmmcSZ5ZeYezpcbdKiIpmuvKrbWVJwHHmPcCEkiMMg4"
+          }
+        }
+      ],
+      "threshold": 1
+    }
+  ]
+}
