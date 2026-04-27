@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "timestamp": "2026-04-27T12:22:23.306377282Z",
+  "artifact_signers": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:b5S+CxuqICIUn/DGBdMKeTMZCgQcg78ohiWQ1sC00c8"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:p8p1Hb8ux9xf9mo8BGedkpv4RUFZgwXuYGu5x0grsdU"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:YCuPAtMNZQaYPDjWmp8voWh6bVg0bRyLu2zEkH6zYZI"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:PlLdpHsUlwJ40nj0ChUUZR5bUbFl8WggW1t9N9zuplg"
+          }
+        }
+      ],
+      "threshold": 3
+    }
+  ],
+  "revocation_keys": [
+    {
+      "signers": [
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:pmmcSZ5ZeYezpcbdKiIpmuvKrbWVJwHHmPcCEkiMMg4"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:Ruw/u/xBnETvDSrFddw8an7KQ2FZWXj/YQPVS+f6lrY"
+          }
+        },
+        {
+          "kind": "key",
+          "data": {
+            "pubkey": "asfaload-pub:twBzvjoPity/cqtw8TGNjBhSt3lQxWHaUt7zc/udkVA"
+          }
+        }
+      ],
+      "threshold": 2
+    }
+  ]
+}
